@@ -34,7 +34,7 @@
 // console.log("A" < "a");
 // console.log("a p p l e" < "a p p n anana");
 // console.log("apple" > "yellow");
-// console.log('bananana' < 'apple');
+// console.log("bananana" < "apple");
 // console.log(true < false);
 // console.log(false < true);
 
@@ -53,9 +53,9 @@
 // console.log(3 >= 4);
 
 //* Не суворе рівенство (==)
-// console.log(null > 0); //false
-// console.log(null == 0); //false
-// console.log(null >= 0); //true
+// console.log(null > 0);
+// console.log(null == 0);
+// console.log(null >= 0);
 
 // console.log(undefined === null);
 
@@ -75,3 +75,5 @@
 //* Суворе не дорівнює (!==)
 // console.log("4" !== 4);
 // console.log(NaN !== NaN);
+
+console.log(!true);

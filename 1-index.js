@@ -22,12 +22,11 @@
 /*
  * Змінні: оголошення з let та const, іменування.
  */
-// let userLastName = "";
+// let userLastName;
 
-// console.log(total);
-// const userLastName = 'Bertie';
+// const userLastName = "Bertie";
 
-// userLastName = "Winifred";
+// // userLastName = "Winifred";
 
 // console.log(userLastName);
 
@@ -37,4 +36,5 @@
 // const userAge = prompt("Скільки тобі років?");
 // const isAdult = confirm("Вам є 18 років?");
 
+// console.log(typeof userAge);
 // console.log(Number(userAge));
